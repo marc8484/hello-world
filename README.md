@@ -11,3 +11,11 @@ Procedures to use this are fairly simple.
 7. End
 
 Thank you. 
+
+
+8. Click the README.md file.
+9. Click the  pencil icon in the upper right corner of the file view to edit.
+10. In the editor, write a bit about yourself.
+11. Write a commit message that describes your changes.
+12. Click Commit changes button.
+
